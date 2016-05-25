@@ -10,4 +10,4 @@
 * Summary of Zoning Regulations, [LA City Department of City Planning](http://planning.lacity.org/zone_code/Appendices/sum_of_zone.pdf)
 
 ##Discrepancies
-* The data was provided by the LA County Assessor through the County's Open Data Portal, there will be some errors.
+* Georeferenced image may not be acurately positioned. It's placement is an approximation.
