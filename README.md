@@ -1,7 +1,7 @@
 # lacity_exploration_2
 
 ##This is an exploration ovelaying
-* Properties identified as Single Family Residences (SFR) in the City of Los Angeles. This includes zoning designations, `R1 | RS | RE11 | RE15 | RE20 | RE40` 
+* Properties zoned as Single Family Residences (SFR) in the City of Los Angeles. This includes zoning designations, `R1 | RS | RE11 | RE15 | RE20 | RE40` 
 * Raster base map of areas zoned as single family residences in 1941. Image is georeferenced.
 
 ##Sources
